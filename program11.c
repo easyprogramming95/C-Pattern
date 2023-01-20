@@ -1,16 +1,13 @@
 /**
  * @file        program10.c
- * @author      Dhruv Ghadiali 
- * (easy.programming95@gmail.com)
+ * @author      Dhruv Ghadiali (easy.programming95@gmail.com)
  * 
  * @brief 
  * @version     0.1
  * @date        20 January 2023
  * 
  * @copyright   Copyright (c) 2023
- * @details     
- * Program for print following 
- * pattern (This patten only work for odd numbers)
+ * @details     Program for print following pattern (This patten only work for odd numbers)
  * 
  *      +       +
  *      + +   + +
